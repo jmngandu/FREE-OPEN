@@ -5,7 +5,11 @@ body{
 .wrapper{
     width: 100%;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+/*HEADER SECTION*/
 header{
     display: flex;
     align-items: center;
@@ -18,4 +22,27 @@ header{
 }
 .navs>li{
     list-style-type: none;
+   
+}
+.navs>li>a{
+    text-decoration: none;
+    color: black;
+}
+.navs>li>a:hover{
+    color: cornsilk;
+    background-color:darkgray;
+}
+
+/*MAIN SECTION*/
+main{
+    text-align: center;
+}
+
+
+/*FOOTER*/
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 20px;
 }

@@ -15,6 +15,9 @@ header{
     align-items: center;
     justify-content: space-between;
 }
+.logo:hover{
+    color: red;
+}
 .navs{
     display: flex;
     gap: 10px;

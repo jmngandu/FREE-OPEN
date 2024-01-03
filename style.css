@@ -40,6 +40,17 @@ header{
     color: cornsilk;
     background-color:darkgray;
 }
+.btn-get{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.btn-get:hover{
+    color: white;
+    background-color:coral;
+}
 
 /*MAIN SECTION*/
 main{

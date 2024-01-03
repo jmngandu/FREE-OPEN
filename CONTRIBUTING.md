@@ -7,7 +7,7 @@ Click on the "Fork" button at the top right of this page to create your own copy
 
 ## 2. Clone the repository 
 ```
-git clone https://github.com/<YOUR-USERNAME>/NEW_SITE.git
+git clone https://github.com/<YOUR-USERNAME>FREE-OPEN.git
 ```
 
 ## 3. Create a New Branch:

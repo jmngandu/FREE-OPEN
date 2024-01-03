@@ -3,7 +3,7 @@ This is an open  source repository where you can learn how to contribute to open
 
 # Contributing to Git Demo
 
-Thank you for considering contributing to Git Demo! By participating in this project, you help make it better. Whether you're reporting bugs, suggesting enhancements, or contributing code, your collaboration is valued.
+Thank you for considering contributing to FREE&OPEN! By participating in this project, you help make it better. Whether you're reporting bugs, suggesting enhancements, or contributing code, your collaboration is valued.
 
 ## Table of Contents
 

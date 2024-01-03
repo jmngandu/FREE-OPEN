@@ -15,4 +15,13 @@ git clone https://github.com/<YOUR-USERNAME>/NEW_SITE.git
 ```
 git checkout -b 'feature-name'
 ```
-## 4.
+## 4. Make changes to the project
+## 5.Commit your changes:
+```bash
+ git commit -m 'Add some feature'
+ ```
+ ## 6.Push to the branch: 
+ ```
+ git push origin feature-my-new-feature
+ ```
+ ## 7.Submit a pull request

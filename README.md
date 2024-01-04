@@ -23,7 +23,7 @@ Thank you for considering contributing to FREE&OPEN! By participating in this pr
 
 This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior.
 
-## How to Contribute
+##How to Contribute
 
 ### Reporting Bugs
 

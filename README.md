@@ -28,6 +28,7 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 ## Reporting Bugs
 
 If you encounter a bug, please open an issue. Before creating an issue, check if the bug hasn't been reported yet. Include details about the environment and steps to reproduce the bug.
+
 ### Suggesting Enhancements
 
 For enhancements or feature requests, please open an issue. Clearly describe the proposed feature and its use case. Discuss the feasibility and potential implementation details.

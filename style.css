@@ -47,6 +47,10 @@ header{
     font-size: 20px;
     margin-top: 40px;
 }
+.btn-get a{
+    text-decoration: none;
+    color: black;
+}
 .btn-get:hover{
     color: white;
     background-color:coral;

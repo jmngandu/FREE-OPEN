@@ -10,6 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    user-select: none;
 }
 .wrapper{
     width: 100%;

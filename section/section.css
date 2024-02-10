@@ -8,6 +8,7 @@ body{
     height: 100vh;
     text-align: center;
     background:radial-gradient(lightblue,lightgreen,lightcoral);
+    user-select: none;
 }
 .social-media{
     width: 100%;

@@ -37,7 +37,24 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+.btn-get{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color:lightcoral;
+    border: 1px green solid;
+    margin: 30px;
+}
+.btn-get a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn-get:hover{
+    background-color: lightseagreen;
+    transition: 2s ease;
 }
 
 /*FOOTER SECTION*/

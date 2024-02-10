@@ -27,6 +27,8 @@ body{
 }
 .logo:hover{
     color: coral;
+    transition: 1.5s ease-in-out;
+    border: 1px solid greenyellow;
 }
 .navs{
     display: flex;
@@ -44,6 +46,7 @@ body{
     background-color: coral;
     border-radius: 5px;
     transition: 1s ease;
+
 }
 .humberger-menu{
     color: white;

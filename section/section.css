@@ -15,6 +15,9 @@ body{
 .social-media h1{
     margin: 20px;
 }
+.social-media h1:hover{
+    color: greenyellow;
+}
 .connections{
     display: flex;
     justify-content: space-evenly;
@@ -37,4 +40,26 @@ background: linear-gradient(gray,white);
     font-size: 25px;
     text-decoration: none;
     color: blanchedalmond;
+}
+.accounts a:hover{
+    background-color: antiquewhite;
+    color: coral;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 2s ease;
+}
+/*ABOUT PAGE*/
+.about-page{
+    width: 400px;
+    font-size: 20px;
+    border: 2px coral solid;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    background: linear-gradient(lightblue,lightgreen);
+}
+.about-page p{
+    line-height: 30px;
 }

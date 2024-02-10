@@ -2,7 +2,11 @@ const humberger = document.querySelector(".humberger-menu")
 const navs = document.querySelector(".navs")
 const crossBar = document.querySelector(".fa-xmark")
 const lineBar = document.querySelector(".fa-bars")
+const loadwithme = document.querySelector(".loading-center")
 
+window.addEventListener("load", function () {
+    loadwithme.style.display = "none"
+})
 
 lineBar.addEventListener("click", () => {
     navs.style.display = "block"

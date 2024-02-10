@@ -45,9 +45,38 @@ body{
     border-radius: 5px;
     transition: 1s ease;
 }
+.humberger-menu{
+    color: white;
+    display: none;
+}
 @media (max-width:578px) {
     .navs{
         display: none;
+        border: 2px solid yellowgreen;
+        text-align: center;
+        border-radius: 5px;
+    }
+    .humberger-menu{
+        display: block;
+        right: 10px;
+        top: 20px;
+        position: fixed;
+        font-size: 40px;
+    }
+    .fa-xmark{
+        display: none;
+    }
+    .header-section{
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 20px;
+        align-items: start;
+    }
+    .section-controler{
+        display: flex;
+        flex-direction: column;
+        justify-content:end;
+        margin-top: 20vh;
     }
 }
 

@@ -21,6 +21,9 @@ body{
     margin: 10px 20px;
     align-items: center;
 }
+.logo:hover{
+    color: coral;
+}
 .navs{
     display: flex;
 }
@@ -33,10 +36,12 @@ body{
     color: black;
     font-weight: bold;
 }
+.navs a:hover{
+    color: white;
+}
 .navs li:hover{
     background-color: coral;
     border-radius: 5px;
-    color: white;
     transition: 1s ease;
 }
 
@@ -51,7 +56,7 @@ body{
     padding: 10px 15px;
     border-radius: 10px;
     background-color:lightcoral;
-    border: 1px green solid;
+    border: none;
     margin: 30px;
 }
 .btn-get a{
@@ -63,6 +68,7 @@ body{
 .btn-get:hover{
     background-color: lightseagreen;
     transition: 2s ease;
+    border-radius: 0;
 }
 
 /*FOOTER SECTION*/

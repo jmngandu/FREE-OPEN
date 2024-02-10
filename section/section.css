@@ -10,6 +10,7 @@ body{
 }
 .social-media{
     width: 100%;
+    background:radial-gradient(lightblue,lightgreen,lightcoral);
 }
 .connections{
     display: flex;
@@ -18,11 +19,15 @@ body{
     flex-shrink: 1;
 }
 .accounts{
-    background-color: gray;
+background: linear-gradient(gray,white);
     width: 400px;
     margin: 10px;
     height: 100vh;
     padding: 10px;
-
-
+    border-radius: 5px;
+}
+.accounts a{
+    font-size: 25px;
+    text-decoration: none;
+    color: blanchedalmond;
 }

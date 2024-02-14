@@ -77,3 +77,37 @@ background: linear-gradient(gray,white);
 .about-page p{
     line-height: 30px;
 }
+.about-button {
+    font-size: 20px;
+    padding: 10px;
+    background-color: coral;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    top: 50%;
+    left: -30%;
+    opacity: 0;
+    animation: slideIn 1s forwards;
+    animation-delay: 2s; 
+}
+.about-button:hover{
+    background-color: antiquewhite;
+    color: coral;
+    transition: 2s ease;
+}
+.about-button > a {
+    text-decoration: none;
+    font-size:20px ;
+}
+
+@keyframes slideIn {
+from {
+    opacity: 0;
+    transform: translateY(-100%);
+}
+to {
+    opacity: 1;
+    transform: translateY(0);
+}
+}

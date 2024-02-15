@@ -17,6 +17,8 @@ git checkout -b 'feature-name'
 ```
 ## 4. Make changes to the project
 ```
+Open section folder, using your suitable editor open the social-media.html file and add your social media accounts
+for example: <a link="github" href="https://github.com/[USERNAME]">[YOURNAME]</a>
 ```
 ## 5.Commit your changes:
 ```

@@ -13,6 +13,11 @@ body{
 .social-media{
     width: 100%;
 }
+.sec-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .social-media h1{
     margin: 20px;
 }
@@ -27,17 +32,15 @@ body{
 .accounts{
 background: linear-gradient(gray, steelblue);
     width: 400px;
-    height: 100vh;
     padding: 10px;
     border-radius: 5px;
     margin: auto;
     margin-bottom: 20px;
-   
 }
 .accounts img{
     width: 30px;
+    padding: .2rem;
 }
-
 .accounts a{
     font-size: 25px;
     text-decoration: none;

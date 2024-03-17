@@ -6,7 +6,6 @@
 body{
     width: 100%;
     height: 100vh;
-    /* background-image: url(src/images/best.gif); */
     background-image: url(./src/images/open.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,6 +70,12 @@ body{
         top: 20px;
         position: fixed;
         font-size: 40px;
+    }
+    #titl{
+        font-size: 25px;
+    }
+    .fa-door-open{
+        font-size: 25px;
     }
     .fa-xmark{
         display: none;

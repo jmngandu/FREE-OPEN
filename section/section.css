@@ -37,11 +37,7 @@ background: linear-gradient(gray, steelblue);
 .accounts img{
     width: 30px;
 }
-/* .accounts h1{
-    display: flex;
-    align-items: center;
-    gap: 10px;
-} */
+
 .accounts a{
     font-size: 25px;
     text-decoration: none;

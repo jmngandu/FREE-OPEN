@@ -25,7 +25,7 @@ body{
 
 }
 .accounts{
-background: linear-gradient(gray,white);
+background: linear-gradient(gray, steelblue);
     width: 400px;
     height: 100vh;
     padding: 10px;

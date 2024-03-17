@@ -16,9 +16,6 @@ body{
 .social-media h1{
     margin: 20px;
 }
-.social-media h1:hover{
-    color: greenyellow;
-}
 .connections{
     display: flex;
     justify-content: space-evenly;

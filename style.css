@@ -27,11 +27,6 @@ body{
     margin: 10px 20px;
     align-items: center;
 }
-.logo:hover{
-    color: coral;
-    transition: 1.5s ease-in-out;
-    border: 1px solid greenyellow;
-}
 .loading-center{
     background: #000 url(./src/images/loading-me.gif) no-repeat center center;
     z-index: 100;
@@ -107,7 +102,7 @@ body{
     border-radius: 10px;
     background-color:lightcoral;
     border: none;
-    margin: 30px;
+    margin-top: 5rem;
 }
 .btn-get a{
     color: white;
@@ -128,7 +123,7 @@ body{
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
-    height: 15vh;
+    height: 3rem;
     background:linear-gradient(gray,white);
     width: 100%;
     color: black;

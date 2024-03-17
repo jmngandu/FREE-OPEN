@@ -132,6 +132,7 @@ body{
     background:linear-gradient(gray,white);
     width: 100%;
     color: black;
+    margin-top: .2rem;
 }
 .more-foot{
     display: flex;

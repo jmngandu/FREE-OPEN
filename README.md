@@ -47,7 +47,7 @@ Provide instructions on how to set up the development environment locally. Inclu
 
 ## Branching Strategy
 
-Explain the branching strategy used in the project (e.g., feature branches, release branches).
+Explain the branching strategy used in the project (e.g., feature branches, release branches)
 
 ## Commit Guidelines
 

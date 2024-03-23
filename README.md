@@ -1,5 +1,5 @@
 # Feel free to collaborate
-This is an open  source repository where you can learn how to contribute to open source by adding features or documentation
+This is an open-source repository where you can learn how to contribute to open-source by adding features or documentation
 
 # Contributing to Git Demo
 
@@ -21,7 +21,7 @@ Thank you for considering contributing to FREE&OPEN! By participating in this pr
 
 ## Code of Conduct
 
-This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior.
+This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behaviour.
 
 ## How to Contribute
 
